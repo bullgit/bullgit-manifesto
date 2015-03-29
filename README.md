@@ -1,22 +1,18 @@
 # the bullgit manifesto
 
-this is the bullgit manifesto
+[Mozilla](https://www.mozilla.org/en-US/about/manifesto/) did it wrong - this is the bullgit manifesto
 
-``0.`` nobody has to obey the bullgit manifesto
+- **bullgit** is an integral part of modern life—a key component in education, communication, collaboration, business, entertainment and society as a whole.
+- **bullgit** is a global public resource that must remain open and accessible.
+- **bullgit** must enrich the lives of individual *gitches*.
+- *gitches’* security and privacy at **bullgit** are fundamental and must not be treated as optional.
+- *gitches* must have the ability to shape **bullgit** and their own experiences in it.
+- The effectiveness of **bullgit** as a public resource depends upon interoperability (protocols, data formats, content), innovation and decentralized participation worldwide.
+- Free and open source software promotes the development of **bullgit** as a public resource.
+- *shitty* community-based processes promote participation, accountability and trust.
+- Commercial involvement in the development of **bullgit** brings no benefits; an unbalance between commercial profit and public benefit is critical.
+- Magnifying the public benefit aspects of **bullgit** is an important goal, worthy of time, attention and commitment.
 
-1. it's **bullgit**, *not Bullgit, BullGit or bullGit*
-2. **be awesome** to each other
-3. open source **everything** <del>or at least try</del>
-4. choose open source licenses (**[VVL](https://github.com/bullgit/VVL/blob/master/VVL.md)** and **[WTFPL](http://www.wtfpl.net/)** are the illest)
-5. create **new *shitty* stuff**
-6. contribute to [existing repositories](https://github.com/bullgit/repositories)
-7. extend the [wiki](https://github.com/bullgit/wiki/wiki)
-8. [chat](https://gitter.im/bullgit/chat) with the **gitches**
-9. choose [a team](https://github.com/orgs/bullgit/teams) and immediately stop caring about it
-10. choose a [bullshit-job-title](https://github.com/bullgit/bullshit-job-titles) for yourself or create your own
-11. use every single bullgit project on a productive site **at the same time**
-12. **do shit!**
-13. bullgit :heart: you
 
 ---
 
