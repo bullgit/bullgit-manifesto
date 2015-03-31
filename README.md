@@ -23,6 +23,8 @@ this is the bullgit manifesto
 ### other versions of the manifesto
 
 - [mozilla-did-it-wrong](https://github.com/bullgit/bullgit-manifesto/tree/mozilla-did-it-wrong)
+- [agile-did-it-wrong](https://github.com/bullgit/bullgit-manifesto/tree/agile-did-it-wrong)
+
 
 ---
 
