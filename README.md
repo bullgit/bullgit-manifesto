@@ -6,7 +6,7 @@ this is the bullgit manifesto
 
 1. it's **bullgit**, *not Bullgit, BullGit or bullGit*
 2. **be awesome** to each other
-3. open source **everything** <del>or at least try</del>
+3. open source **everything** ~~or at least try~~
 4. choose open source licenses (**[VVL](https://github.com/bullgit/VVL/blob/master/VVL.md)** and **[WTFPL](http://www.wtfpl.net/)** are the illest)
 5. create **new *shitty* stuff**
 6. contribute to [existing repositories](https://github.com/bullgit/repositories)
